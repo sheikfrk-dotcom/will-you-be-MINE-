@@ -2,7 +2,7 @@
 
 A lightweight web application to create personalized Valentine-themed pages using pre-designed templates. The platform allows users to customize text, images, and layouts and deploy a shareable page within minutes.
 
-Live Demo: https://yashasvi-shukla-me.github.io/will-you-be-my-valentine/
+Live Demo: https://Sheik-Aafreen-me.github.io/will-you-be-my-valentine/
 
 ---
 
@@ -63,7 +63,7 @@ The application can be deployed easily using GitHub Pages.
 ### Preview
 <img width="1311" height="688" alt="Screenshot 2026-02-03 at 1 05 42 PM" src="https://github.com/user-attachments/assets/644ae687-ebb0-4394-8ee0-85d29fd08b5b" />
 
-YASHASVI SHUKLA (Yashasvi Shukla)
+Sheik Farook (Sheik Farook)
 
 ### Notes
 This project was built as a creative frontend application focusing on UI, customization, and client-side deployment workflows.
