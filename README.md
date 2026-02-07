@@ -2,7 +2,7 @@
 
 A lightweight web application to create personalized Valentine-themed pages using pre-designed templates. The platform allows users to customize text, images, and layouts and deploy a shareable page within minutes.
 
-Live Demo: (https://yashasvi-shukla-me.github.io/will-you-be-my-valentine/)
+Live Demo: (https://Sheik-Farook-me.github.io/will-you-be-my-valentine/)
 
 ---
 
